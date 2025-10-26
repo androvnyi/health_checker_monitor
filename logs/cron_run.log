@@ -1,0 +1,10 @@
+/home/and/health_checker_monitor/server_monitor.sh: line 4: ./config.env: No such file or directory
+/home/and/health_checker_monitor/server_monitor.sh: line 17: ./logs/server_health.log: No such file or directory
+/home/and/health_checker_monitor/server_monitor.sh: line 4: ./config.env: No such file or directory
+/home/and/health_checker_monitor/server_monitor.sh: line 17: ./logs/server_health.log: No such file or directory
+/home/and/health_checker_monitor/server_monitor.sh: line 4: ./config.env: No such file or directory
+/home/and/health_checker_monitor/server_monitor.sh: line 17: ./logs/server_health.log: No such file or directory
+/home/and/health_checker_monitor/server_monitor.sh: line 4: ./config.env: No such file or directory
+/home/and/health_checker_monitor/server_monitor.sh: line 17: ./logs/server_health.log: No such file or directory
+/home/and/health_checker_monitor/server_monitor.sh: line 4: ./config.env: No such file or directory
+/home/and/health_checker_monitor/server_monitor.sh: line 17: ./logs/server_health.log: No such file or directory
